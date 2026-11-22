@@ -1,6 +1,6 @@
 # Berka Credit Risk Portfolio
 
-End-to-end credit risk project on the [Berka dataset](https://sorry.vse.cz/~berka/challenge/pkdd1999/berkadata.htm) — a real Czech bank's loan portfolio from 1993–1998. Demonstrates the full model development lifecycle: SQL feature engineering, exploratory analysis, machine learning, WoE scorecard, two-stage decisioning, and a Power BI dashboard.
+End-to-end credit risk project on the [Berka dataset](https://www.kaggle.com/datasets/nitamontana/berka-dataset) — a real Czech bank's loan portfolio from 1993–1998. Demonstrates the full model pipeline: SQL feature engineering, exploratory analysis, machine learning, WoE scorecard, two-stage decisioning, and a Power BI dashboard.
 
 ---
 
@@ -29,8 +29,7 @@ Credit-Risk-Analysis/
 - **682 loans** across 8 Czech regions, 1993–1998
 - **76 defaults** (11.1% default rate)
 - Raw tables: `loan`, `account`, `transaction`, `client`, `disp`, `district`
-- Source: [PKDD 1999 Discovery Challenge](https://sorry.vse.cz/~berka/challenge/pkdd1999/berkadata.htm)
-
+- Source: [PKDD 1999 Discovery Challenge](https://www.kaggle.com/datasets/nitamontana/berka-dataset)
 ---
 
 ## Pipeline Overview
