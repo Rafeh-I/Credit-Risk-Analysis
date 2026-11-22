@@ -160,4 +160,4 @@ jupyter lab
 - LGD assumed at 40% — standard retail unsecured lending assumption
 - 1998 data is partial (loans still active at snapshot date), which slightly deflates the default rate for that year
 - WoE Scorecard excluded from standalone P&L comparison — it functions as Stage 1 of the two-stage model, not as an independent decisioning model
-- 
+  
